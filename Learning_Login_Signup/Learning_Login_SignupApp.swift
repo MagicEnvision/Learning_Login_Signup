@@ -11,7 +11,7 @@ import SwiftUI
 struct Learning_Login_SignupApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AuthView()
         }
     }
 }
